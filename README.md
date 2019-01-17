@@ -1,0 +1,1 @@
+Visualizations of temperature data with Matplotlib. Adapted from the book "Python Crash Course" by Eric Matthes.
